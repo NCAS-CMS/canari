@@ -30,3 +30,4 @@ These settings are valid for this member specifically, please ask for help if yo
 ![u-cv465](https://user-images.githubusercontent.com/74788610/225708842-ab944bab-ed2d-4e4b-8537-2886bfe7f428.png)
 
 ## 3. Edit your CANARI LE suite
+1. On puma, go to your new suite directory: `cd ~/roses/u-cv465/`
