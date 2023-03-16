@@ -1,6 +1,6 @@
 # Running a member of the CANARI Large Ensemble.
 
-Thank you for running a member of the CANARI Large Ensemble! Follow these steps:
+Thank you for running a member of the CANARI Large Ensemble! Please follow these steps:
 
 ## 1. Prerequisites
 These things need to be sorted out before you can start your run:
@@ -20,4 +20,13 @@ These settings are valid for this member specifically, please ask for help if yo
 2. Take a copy of u-cn134:
    - Run `rosie go`
    - Search u-cn134 in the search field on the top right
-   - Right-click the suite and click Copy Suite 
+   - Right-click the suite and click Copy Suite
+   - Accept the New suite project (Coupled Climate) in the follow on window
+   - Also accept the settings in the next window (project, title, etc.)
+   - Make a record of the ID of the newly created suite. It is u-cv465 for the purpose of these instructions.
+   - Exit the `rosie go` application. 
+
+![copy-suite](https://user-images.githubusercontent.com/74788610/225705405-d097ebc6-0d00-4be2-b8fa-73fa2f906167.png)
+![u-cv465](https://user-images.githubusercontent.com/74788610/225708842-ab944bab-ed2d-4e4b-8537-2886bfe7f428.png)
+
+## 3. Edit your CANARI LE suite
