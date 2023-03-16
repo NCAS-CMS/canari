@@ -18,4 +18,6 @@ These settings are valid for this member specifically, please ask for help if yo
 ## 2. Make a copy of the CANARI LE master suite
 1. Log on to puma.
 2. Take a copy of u-cn134:
-    
+   - Run `rosie go`
+   - Search u-cn134 in the search field on the top right
+   - Right-click the suite and click Copy Suite 
