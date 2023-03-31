@@ -24,6 +24,10 @@ Before running your first CANARI production run, you need to ensure you have the
 
 ## Running the suite
 
+* `rose suite-run -- --hold-point=19500101T0000Z`. This will submt the suite and only run the first cycle; holding subsequent cycles highlighted in pink.
+* Right click on the jdma task in the cylc GUI and select hold.
+* Contact Reinhard when the first cycle coupled task has completed
+* Assuming all the tasks have completed succcesfully and you've got the go ahead to continue the run release the suite by right clicking on each of the held (pink) lines and select "Release".
 
 ## CANARI Production Suites
 
