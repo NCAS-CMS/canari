@@ -16,9 +16,8 @@ Before running your first CANARI production run, you need to ensure you have the
 * Take a copy of suite u-cv575.
 * Adapt -> suite-info -> title
 * Adapt -> suite conf ->  Project Accounting
-* Set Total Run Length to 3 months in suite conf -> Run Initialisation & Cycling
-* Set -> file -> jinja2 -> ENSEMBLE_NUM to 4/5 for Jeff/Dan
-* In suite.rc file - adapt TRANSFER_DIR=
+* Set -> file -> jinja2 -> ENSEMBLE_NUM as instructed in your email
+* In suite.rc file - adapt TRANSFER_DIR= to point to your JASMIN Transfer cache directory.
 * Double check that -> modify_netcdf_metadata -> model metadata -> all agrees with the spreadsheet. You shouldn’t have to do anything though.
 * Run the suite for 3 months and let me know when you’ve done that.
 
@@ -28,6 +27,12 @@ Before running your first CANARI production run, you need to ensure you have the
 * Right click on the jdma task in the cylc GUI and select hold.
 * Contact Reinhard when the first cycle coupled task has completed
 * Assuming all the tasks have completed succcesfully and you've got the go ahead to continue the run release the suite by right clicking on each of the held (pink) lines and select "Release".
+
+## Troubleshooting
+
+## FAQ
+* Why is the storm_analysis/tidy_pt_files tasks still waiting in the previous cycle?
+* Monitor has failed what should I do?
 
 ## CANARI Production Suites
 
