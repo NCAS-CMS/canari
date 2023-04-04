@@ -34,13 +34,13 @@ Before running your first CANARI production run, you need to ensure you have the
 * Why is the storm_analysis/tidy_pt_files tasks still waiting in the previous cycle?
 * Monitor has failed what should I do?
 
-## CANARI Production Suites
+## CANARI HIST2 Production Suites
 
-* [u-cv575](u-cv575.md)
-* [u-cv625](u-cv625.md)
-* [u-cv608](u-cv608.md)
-* [u-cv???](u-cv???.md)
-* [u-cv827](u-cv827.md)
+* [Ensemble Member 1 - u-cv575](u-cv575)
+* [Ensemble Member 2 - u-cv625](u-cv625)
+* [Ensemble Member 3 - u-cv608](u-cv608)
+* [Ensemble Member 4 - u-cv830](u-cv830)
+* [Ensemble Member 5 - u-cv827](u-cv827)
 * 
 * 
 
