@@ -1,18 +1,11 @@
 # CANARI
 
-## Contents
+## Documents related to suite running
 
 * [Setting up to run a CANARI production suite](setup)
 * [CANARI suite description](suite-description)
 * [Troubleshooting](troubleshooting)
 * [Frequently Asked Questions](faq)
-
-
-## Troubleshooting
-
-## FAQ
-* Why is the storm_analysis/tidy_pt_files tasks still waiting in the previous cycle?
-* Monitor has failed what should I do?
 
 ## CANARI HIST1 Prouduction Suites
 
