@@ -16,11 +16,11 @@
 
 ## CANARI HIST2 Production Suites
 
-* [Ensemble Member 1 - u-cv575](u-cv575)
-* [Ensemble Member 2 - u-cv625](u-cv625)
-* [Ensemble Member 3 - u-cv608](u-cv608)
-* [Ensemble Member 4 - u-cv830](u-cv830)
-* [Ensemble Member 5 - u-cv827](u-cv827)
-* 
+* [Ensemble Member 01 - u-cv575](u-cv575)
+* [Ensemble Member 02 - u-cv625](u-cv625)
+* [Ensemble Member 03 - u-cv608](u-cv608)
+* [Ensemble Member 04 - u-cv830](u-cv830)
+* [Ensemble Member 05 - u-cv827](u-cv827)
+* [Ensemble Member 06 - u-cv976](u-cv976)
 * 
 
