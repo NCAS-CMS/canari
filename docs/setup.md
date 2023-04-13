@@ -16,21 +16,18 @@ Before running your first CANARI production run, you need to ensure you have the
 
 ## Setting up the CANARI suite
 
-* Take a copy of suite u-cv575.
-* Adapt -> suite-info -> title
-* Adapt -> suite conf ->  Project Accounting
-* Set -> file -> jinja2 -> ENSEMBLE_NUM as instructed in your email
-* In suite.rc file - adapt TRANSFER_DIR= to point to your JASMIN Transfer cache directory.
+* Checkout the suiteid you've been assigned.  (rosie checkout u-c????
+* In suite.rc file - adapt `TRANSFER_DIR `to point to your JASMIN Transfer cache directory.
 * Double check that -> modify_netcdf_metadata -> model metadata -> all agrees with the spreadsheet. You shouldn’t have to do anything though.
-* Run the suite for 3 months and let me know when you’ve done that.
+* Run the suite for 3 months see below.
 
 ## Running the suite
 
 * `rose suite-run`. This will submt the suite and only run the first cycle; holding subsequent cycles highlighted in pink.
 * Right click on the jdma task in the cylc GUI and select hold.
 * Contact Reinhard when the first cycle coupled task has completed
-* Assuming all the tasks have completed succcesfully and you've got the go ahead to continue the run release the suite by right clicking on each of the held (pink) lines and select "Release".
-
+* Assuming all the tasks have completed succcesfully and you've got the go ahead to continue the run. Release the suite by running `cylc release <suiteid>`
+ 
 ## Documenting the running suite
 
 * Create a new page on the CANARI github site.
