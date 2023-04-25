@@ -24,7 +24,6 @@ Before you can use the JDMA to migrate data to Elastic Tape you must install the
 You need to configure your ssh settings to connect to the Jasmin sci nodes, in order to submit the JDMA requests. 
 
 1. Add the following to your `~/.ssh/config` file on PUMA:
-{% raw %}
 ~~~
 # JASMIN
 Host login1
@@ -48,9 +47,7 @@ ControlMaster auto
 ControlPath /tmp/ssh-socket-%r@%h-%p
 ControlPersist yes
 ~~~
-{% endraw %}
 
-{:start="2"}
 2. Add your JASMIN ssh-key to your ssh-agent:
     * `ssh-add ~/.ssh/<jasmin-ssh-key>`
 
