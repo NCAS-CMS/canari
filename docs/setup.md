@@ -8,7 +8,7 @@
 Before running your first CANARI production run, you need to ensure you have the following setup:
 
 * Machine Accounts: PUMA, ARCHER2, JASMIN, MOSRS
-* Request access to CANARI GWS on JASMIN via the [Jasmin accounts portal](https://accounts.jasmin.ac.uk/).  Request access to ET CANARI workspace - email Matt Pritchard? 
+* Request access to CANARI GWS on JASMIN via the [Jasmin accounts portal](https://accounts.jasmin.ac.uk/).  Request access to ET CANARI workspace - contact Grenville 
 * Ensure you are setup to run the UM -  [UM Training Getting Setup](https://ncas-cms.github.io/um-training/getting-setup-selfstudy.html)
 * Setup GridFTP - [Archer2 to Jasmin GridFTP setup](gridftp)
 * Setup JDMA environment and connection from PUMA to sci* nodes - [JDMA setup](jdma)
