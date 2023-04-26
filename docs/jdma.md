@@ -24,6 +24,7 @@ Before you can use the JDMA to migrate data to Elastic Tape you must install the
 You need to configure your ssh settings to connect to the Jasmin sci nodes, in order to submit the JDMA requests. 
 
 1. Add the following to your `~/.ssh/config` file on PUMA:
+
 ~~~
 # JASMIN
 Host login1
@@ -56,6 +57,7 @@ ControlPersist yes
     * You should be logged into the JASMIN sci node without prompt for your JASMIN passphrase.
 
 4. Add path to Rose/Cylc to your `~/.bash_profile` on JASMIN:
+
 ~~~
 if [[ $(hostname) = sci*.jasmin.ac.uk || $(hostname) = cylc*.jasmin.ac.uk ]]; then
   # Rose/cylc on jasmin-sci & Lotus nodes
