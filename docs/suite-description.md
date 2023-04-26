@@ -10,7 +10,6 @@
 ## Cycling suite tasks
 ### xml-fix
 ### coupled
-### retrieve_ozone
 ### postproc
 ### create_frames\<region\>
 ### modify_netcdf_metada
