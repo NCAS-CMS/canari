@@ -9,6 +9,7 @@
 ### recon
 ## Cycling suite tasks
 ### xml-fix
+Sets the path for output of atmosphere and ocean data in the xml files 
 ### coupled
 ### postproc
 ### create_frames\<region\>
