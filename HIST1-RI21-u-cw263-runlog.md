@@ -2,5 +2,5 @@
 
 | Cycle | Comment / issue | Action |
 | ---   | ---             | ---    |
-| 1869-04 | unknown JDMA error: `[ERROR]  unparseable response from JDMA` | none |
+| 1856-10 | unknown JDMA error: `[ERROR]  unparseable response from JDMA` | none |
 
