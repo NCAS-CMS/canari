@@ -9,11 +9,12 @@
 ### recon
 ## Cycling suite tasks
 ### xml-fix
-Sets the path for output of atmosphere and ocean data in the xml files 
+Sets the path for output of atmosphere and ocean data in the xml files. Model ouput is direcred the suite cycle directory. 
 ### coupled
 ### postproc
 ### create_frames\<region\>
 ### modify_netcdf_metada
+Adds metadata to netcdf files 
 ### storm_analysis
 ### pptransfer
 ### monitor
