@@ -4,6 +4,7 @@
 
 * [Setting up to run a CANARI production suite](setup)
 * [CANARI suite description](suite-description)
+* [ARCHER2 OS Upgrade - Suite Restart Instructions](archer2-os-upgrade)
 * [Troubleshooting](troubleshooting)
 * [Frequently Asked Questions](faq)
 
