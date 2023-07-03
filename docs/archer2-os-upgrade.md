@@ -28,4 +28,5 @@ Following the ARCHER2 OS Upgrade in June 2023 make the changes below before rest
 
 11. After CMS have sanity checked:
   * Setup your puma->jamsin connection
+  * Regenerate gridftp credentials on ARCHER2
   * Follow the *"How to Restart Suites"* section at: [https://cms.ncas.ac.uk//archer2/os-upgrade/#how-to-restart-suites](https://cms.ncas.ac.uk//archer2/os-upgrade/#how-to-restart-suites)
