@@ -13,7 +13,7 @@ Following the ARCHER2 OS Upgrade in June 2023 make the changes below before rest
 
 4. Copy in an updated `archer2.rc` file from `/home/ros/roses/u-cn134/site/archer2.rc`
   
-5. In `suite.rc`, change TRANSFER_DIR to `/work/xfc/vol7/user_cache/canari`
+5. In `suite.rc`, change TRANSFER_DIR to `/work/xfc/vol7/user_cache/canari` \
   (vol7 is now dedicated to CANARI   -- NB make sure your pptransfer and jdma tasks are in sync first)
 
 6. In `rose-suite.conf` set `CONFIG_MODULE_NAME='GC3-PrgEnv/v3'`
