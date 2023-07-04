@@ -2,6 +2,8 @@
 
 Following the ARCHER2 OS Upgrade in June 2023 make the changes below before restarting suites.
 
+**Note:** Before making these changes please ensure any previous changes to the suite have been committed to the repository.
+
 1. Copy in an updated `make_iodef_xml.py` python script from  `/home/ros/roses/u-cn134/app/xml/bin/make_iodef_xml.py` to your suite
   
 2. In panel *postproc->NEMO->Restart Files*
