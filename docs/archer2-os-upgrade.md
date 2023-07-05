@@ -24,7 +24,7 @@ Following the ARCHER2 OS Upgrade in June 2023 make the changes below before rest
   
 8. Commit your changes
 
-9. Make a note of the last cycle that completed before the ARCHER2 upgrade.  Record this on your suite log page:  e.g. [u-cv976](https://ncas-cms.github.io/canari/u-cv976)
+9. Make a note of the last cycle coupled task that completed before the ARCHER2 upgrade.  Record this on your suite log page:  e.g. [u-cv976](https://ncas-cms.github.io/canari/u-cv976)
   
 10. Let CMS know when you have completed 1-9; we'll do a sanity check
 
