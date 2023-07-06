@@ -14,6 +14,7 @@
 * u-cv592
 * [u-cv247](HIST1-RI36-u-cv247-runlog.md)
 * [u-cv281](u-cv281)
+* [u-cw264])u-cw264)
 
 ## CANARI HIST2 Production Suites
 
