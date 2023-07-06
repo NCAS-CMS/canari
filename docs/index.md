@@ -10,7 +10,7 @@
 
 ## CANARI HIST1 Production Suites
 
-* u-cu600
+* [u-cu600](u-cu600)
 * u-cv592
 * u-cv247
 * u-cv281
