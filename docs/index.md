@@ -29,6 +29,8 @@
 * [Ensemble Member 08 - u-cw085](u-cw085)
 * [Ensemble Member 09 - u-cw342](u-cw342)
 * [Ensemble Member 10 - u-cw343](u-cw343)
+* [Ensemble Member 11 - u-cy375](u-cy375)
+* [Ensemble Member 12 - u-cy376](u-cy376)
 
 ####  Abandoned Suites:
 * [Ensemble Member 03 - u-cv608](u-cv608)
