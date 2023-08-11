@@ -17,7 +17,7 @@ Before running your first CANARI production run, you need to ensure you have the
 ## Setting up the CANARI suite
 
 * Checkout the suite you've been assigned.  (`rosie checkout u-c????`)
-* In suite.rc file - adapt `TRANSFER_DIR `to point to your JASMIN Transfer cache directory.
+* In suite.rc file - check that `TRANSFER_DIR` is either set to `/work/xfc/vol7/user_cache/canari` or `/work/xfc/vol9/user_cache/canari`
 * In the rose edit GUI, under "Project Accounting" (or in the `rose-suite.conf` file), set your ARCHER2 username.
 * Double check that settings in  *modify_netcdf_metadata -> model metadata* all agrees with the spreadsheet. You shouldn’t have to do anything though.
 * Run the suite for 3 months see below.
