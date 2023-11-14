@@ -19,6 +19,8 @@
 
 ## CANARI HIST2 Production Suites
 
+[Known issues affecting more than suite suite](hist2-known-issues)
+
 * [Ensemble Member 01 - u-cv575](u-cv575)
 * [Ensemble Member 02 - u-cv625](u-cv625)
 * [Ensemble Member 03 - u-cw345](u-cw345)
