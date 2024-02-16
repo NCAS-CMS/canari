@@ -52,7 +52,7 @@
   
 ### Ensemble Members In Progress
 
-* [08 - u-cw085](hist2/8-cw085)
+* [08 - u-cy436](hist2/8-cy436)
 * [15 - u-cy866](hist2/15-cy866)
 * [19 - u-cy880](hist2/19-cy880)
 * [23 - u-da191](hist2/23-da191)
@@ -67,8 +67,9 @@
 * [40 - u-dd442](hist2/40-dd442)
 
 ####  Abandoned Suites:
-* [Ensemble Member 03 - u-cv608](u-cv608)
-* [Ensemble Member 04 - u-cv830](u-cv830)
+* [03 - u-cv608](hist2/3-cv608)
+* [04 - u-cv830](hist2/4-cv830)
 * [07 - u-cw083](hist2/7-cw083)
+* [08 - u-cw085](hist2/8-cw085)
 
 
