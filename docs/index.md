@@ -22,23 +22,6 @@ Variables not contained in the priority output can be retrieved from the JASMIN 
   - know how to read from the ET, using the so-called JDMA tool. This is explained [here](https://help.jasmin.ac.uk/category/196-long-term-archive-storage).
   - know the ET batches corresponding to the ensemble members your are looking for. These are detailed [below](#canari-hist2-production-suites) for the historical ("HIST2") simulations.
 
-## Documents related to suite running
-
-* [Setting up to run a CANARI production suite](setup)
-* [CANARI suite description](suite-description)
-* [ARCHER2 OS Upgrade - Suite Restart Instructions](archer2-os-upgrade)
-* [Troubleshooting](troubleshooting)
-* [Frequently Asked Questions](faq)
-
-## CANARI HIST1 Production Suites
-
-* [u-cu600](u-cu600)
-* u-cv592
-* [u-cv247](HIST1-RI36-u-cv247-runlog.md)
-* [u-cv281](u-cv281)
-* [u-cw263](u-cw263)
-* [u-cw264](u-cw264)
-
 ## CANARI HIST2 Production Suites
 
 [Known issues affecting more than suite suite](hist2-known-issues)
@@ -94,4 +77,19 @@ Variables not contained in the priority output can be retrieved from the JASMIN 
 * [07 - u-cw083](hist2/7-cw083)
 * [08 - u-cw085](hist2/8-cw085)
 
+## CANARI HIST1 Production Suites
 
+* [u-cu600](u-cu600)
+* u-cv592
+* [u-cv247](HIST1-RI36-u-cv247-runlog.md)
+* [u-cv281](u-cv281)
+* [u-cw263](u-cw263)
+* [u-cw264](u-cw264)
+
+## Documents related to suite running
+
+* [Setting up to run a CANARI production suite](setup)
+* [CANARI suite description](suite-description)
+* [ARCHER2 OS Upgrade - Suite Restart Instructions](archer2-os-upgrade)
+* [Troubleshooting](troubleshooting)
+* [Frequently Asked Questions](faq)
