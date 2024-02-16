@@ -16,6 +16,12 @@ The available priority variables are listed [here](metadata/20240216-canari-le-p
 
 Alongside the `priority` directory, derived diagnostics are shared by the CANARI community, and you are encouraged to share your own in an appropriate location, e.g., adding to `/gws/nopw/j04/canari/shared/large-ensemble/derived`. Management of this shared space is very light-touch, and **different users can write** to it, so please make sure you either keep a private copy of your data for small datasets, or that you can easily reproduce these derived diagnostics should the need arise.
 
+### Full output on the JASMIN Elastic Tape
+
+Variables not contained in the priority output can be retrieved from the JASMIN Elastic Tape. In order to do this, you need to
+  - know how to read from the ET, using the so-called JDMA tool. This is explained [here](https://help.jasmin.ac.uk/category/196-long-term-archive-storage).
+  - know the ET batches corresponding to the ensemble members your are looking for. These are detailed [below](#canari-hist2-production-suites) for the historical ("HIST2") simulations.
+
 ## Documents related to suite running
 
 * [Setting up to run a CANARI production suite](setup)
