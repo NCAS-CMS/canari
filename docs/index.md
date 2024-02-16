@@ -9,6 +9,7 @@ Basic properties and the experiment design of this Large Ensemble are described 
 
 A subset of the complete output is retrieved from the JASMIN Elastic Tape to this location:
 `/gws/nopw/j04/canari/shared/large-ensemble/priority`.
+The available priority variables are summarised [here](canari/docs/metadata/20240216-canari-le-priority-variables.xlsx).
 
 Alongside the this directory, derived diagnostics are shared by the CANARI community, and you are encouraged to share your own in an appropriate location, e.g., adding to `/gws/nopw/j04/canari/shared/large-ensemble/derived`. Management of this shared space is very light-touch, and **different users can write** to it, so please make sure you either keep a private copy of your data for small datasets, or that you can easily reproduce these derived diagnostics should the need arise.
 
