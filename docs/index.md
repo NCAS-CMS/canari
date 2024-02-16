@@ -22,6 +22,8 @@ Variables not contained in the priority output can be retrieved from the JASMIN 
   - know how to read from the ET, using the so-called JDMA tool. This is explained [here](https://help.jasmin.ac.uk/category/196-long-term-archive-storage).
   - know the ET batches corresponding to the ensemble members your are looking for. These are detailed [below](#canari-hist2-production-suites) for the historical ("HIST2") simulations.
 
+### Ancillary files
+
 ## CANARI HIST2 Production Suites
 
 [Known issues affecting more than suite suite](hist2-known-issues)
