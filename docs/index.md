@@ -14,6 +14,19 @@ The available priority variables are listed [here](/metadata/20240229-canari-le-
   - priority NEMO variables ("Priority 1" monthly and 2D daily only), and
   - priority CICE variables (all CICE output is included in the priority output).
 
+Note: an unfortunate change in the names of four variables occurred during the HIST2 runs.
+
+| variable name | Ensemble members |
+| ------------- | ---------------- |
+| m01s30i201_8  | 1,2,3,4,5,6,7,9,10,12 |
+| m01s30i202_8  |   |
+| m01s30i201_5  |   |
+| m01s30i202_5  |   |
+| m01s30i201_7  | 13,18,20,21,22,24,28,31 |
+| m01s30i202_7  |   |
+| m01s30i201_4  |   |
+| m01s30i202_4  |   |
+
 Alongside the `priority` directory, derived diagnostics are shared by the CANARI community, and you are encouraged to share your own in an appropriate location, e.g., adding to `/gws/nopw/j04/canari/shared/large-ensemble/derived`. Management of this shared space is very light-touch, and **different users can write** to it, so please make sure you either keep a private copy of your data for small datasets, or that you can easily reproduce these derived diagnostics should the need arise.
 
 ### Full output on the JASMIN Elastic Tape
