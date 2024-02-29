@@ -14,7 +14,7 @@ The available priority variables are listed [here](/metadata/20240229-canari-le-
   - priority NEMO variables ("Priority 1" monthly and 2D daily only), and
   - priority CICE variables (all CICE output is included in the priority output).
 
-**Note:** an unfortunate change in the names of four variables occurred during the HIST2 runs. The spreadsheet referenced above details the variable naming for the currently extract ensemble members and indicates where the names switch. Variable naming is consistent within an ensmeble member.
+**Note:** an unfortunate change in the names of four variables occurred during the HIST2 runs. The spreadsheet referenced above details the variable naming for the currently extracted ensemble members and indicates where the names switch. Variable naming is consistent within an ensmeble member.
 
 
 Alongside the `priority` directory, derived diagnostics are shared by the CANARI community, and you are encouraged to share your own in an appropriate location, e.g., adding to `/gws/nopw/j04/canari/shared/large-ensemble/derived`. Management of this shared space is very light-touch, and **different users can write** to it, so please make sure you either keep a private copy of your data for small datasets, or that you can easily reproduce these derived diagnostics should the need arise.
