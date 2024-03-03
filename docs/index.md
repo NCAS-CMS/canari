@@ -9,7 +9,7 @@ Basic properties and the experiment design of this Large Ensemble are described 
 
 A subset of the complete output is retrieved from the JASMIN Elastic Tape to this location:
 `/gws/nopw/j04/canari/shared/large-ensemble/priority`.
-The available priority variables are listed [here](/metadata/20240229-canari-le-priority-variables.xlsx); the spreadsheet contains:
+The available priority variables are listed [here](/metadata/20240303-canari-le-priority-variables.xlsx); the spreadsheet contains:
   - the priority UMatmos variables, 
   - priority NEMO variables ("Priority 1" monthly and 2D daily only), and
   - priority CICE variables (all CICE output is included in the priority output).
