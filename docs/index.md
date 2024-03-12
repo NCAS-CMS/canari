@@ -29,6 +29,10 @@ Variables not contained in the priority output can be retrieved from the JASMIN 
 
 Commonly used ancillary files, such as for the land fraction and orography, are available at `/gws/nopw/j04/canari/shared/large-ensemble/ancil`.
 
+## CANARI SSP3-7.0 Production Suites
+
+### Ensemble Members In Progress
+
 ## CANARI HIST2 Production Suites
 
 [Known issues affecting more than suite suite](hist2-known-issues)
