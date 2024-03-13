@@ -47,45 +47,21 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | [01 - u-cv575](hist2/1-cv575) | [11 - u-cy375](hist2/11-cy375) | [21 - u-da179](hist2/21-da179) | [31 - u-cz475](hist2/31-cz475) |
+| [02 - u-cv625](hist2/2-cv625) | [12 - u-cy376](hist2/12-cy376) | [22 - u-da190](hist2/22-da190) | [32 - u-cz568](hist2/32-cz568) |
+| [03 - u-cw345](hist2/3-cw345) | [13 - u-cy537](hist2/13-cy537) | [23 - u-da191](hist2/23-da191) | [33 - u-cz647](hist2/33-cz647) |
+| [04 - u-cw356](hist2/4-cw356) | [14 - u-cy811](hist2/14-cy811) | [24 - u-da192](hist2/24-da192) | [34 - u-cz648](hist2/34-cz648) |
+| [05 - u-cv827](hist2/5-cv827) | | [25 - u-da193](hist2/25-da193) | | [35 - u-cz649](hist2/35-cz649) |
+| [06 - u-cv976](hist2/6-cv976) | [16 - u-cy873](hist2/16-cy873) | | |
+| [07 - u-cz547](hist2/7-cz547) | [17 - u-cy877](hist2/17-cy877) | [27 - u-db301](hist2/27-db301) | |
+| [08 - u-cy436](hist2/8-cy436) | [18 - u-cy879](hist2/18-cy879) | [28 - u-db303](hist2/28-db303) | |
+| [09 - u-cw342](hist2/9-cw342) | | | |
+| [10 - u-cw343](hist2/10-cw343) | [20 - u-cy881](hist2/20-cy881) | [30 - u-db305](hist2/30-db305) | |
 
-
-* [01 - u-cv575](hist2/1-cv575)
-* [02 - u-cv625](hist2/2-cv625)
-* [03 - u-cw345](hist2/3-cw345)
-* [04 - u-cw356](hist2/4-cw356)
-* [05 - u-cv827](hist2/5-cv827)
-* [06 - u-cv976](hist2/6-cv976)
-* [07 - u-cz547](hist2/7-cz547)
-* [09 - u-cw342](hist2/9-cw342)
-* [10 - u-cw343](hist2/10-cw343)
-* [11 - u-cy375](hist2/11-cy375)
-* [12 - u-cy376](hist2/12-cy376)
-* [13 - u-cy537](hist2/13-cy537)
-* [14 - u-cy811](hist2/14-cy811)
-* [16 - u-cy873](hist2/16-cy873)
-* [17 - u-cy877](hist2/17-cy877)
-* [18 - u-cy879](hist2/18-cy879)
-* [20 - u-cy881](hist2/20-cy881)
-* [21 - u-da179](hist2/21-da179)
-* [22 - u-da190](hist2/22-da190)
-* [24 - u-da192](hist2/24-da192)
-* [28 - u-db303](hist2/28-db303)
-* [30 - u-db305](hist2/30-db305)
-* [31 - u-cz475](hist2/31-cz475)
-* [32 - u-cz568](hist2/32-cz568)
-* [33 - u-cz647](hist2/33-cz647)
-* [34 - u-cz648](hist2/34-cz648)
-* [35 - u-cz649](hist2/35-cz649)
-  
 ### Ensemble Members In Progress
 
-* [08 - u-cy436](hist2/8-cy436)
 * [15 - u-cy866](hist2/15-cy866)
 * [19 - u-cy880](hist2/19-cy880)
-* [23 - u-da191](hist2/23-da191)
-* [25 - u-da193](hist2/25-da193)
 * [26 - u-db291](hist2/26-db291)
-* [27 - u-db301](hist2/27-db301)
 * [29 - u-db304](hist2/29-db304)
 * [36 - u-dd436](hist2/36-dd436)
 * [37 - u-dd438](hist2/37-dd438)
