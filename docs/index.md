@@ -31,6 +31,9 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 
 ## CANARI SSP3-7.0 Production Suites
 
+| [01 - u-de](ssp3/1-de) | [02 - u-de436](ssp3/2-de436) |
+
+
 ### Ensemble Members In Progress
 
 ## CANARI HIST2 Production Suites
@@ -100,6 +103,7 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 ## Documents related to suite running
 
 * [Setting up to run a CANARI production suite](setup)
+* [Setting up to run a CANARI SSP3-7.0 productions suite](setup-ssp3)
 * [CANARI suite description](suite-description)
 * [ARCHER2 OS Upgrade - Suite Restart Instructions](archer2-os-upgrade)
 * [Troubleshooting](troubleshooting)
