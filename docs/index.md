@@ -35,7 +35,7 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 
 |     |    |
 | --- | ---|
-| [01 - u-de](ssp3/1-de) | [02 - u-de436](ssp3/2-de436) |
+| [01 - u-de](ssp370/1-de) | [02 - u-de436](ssp370/2-de436) |
 
 
 ## CANARI HIST2 Production Suites
