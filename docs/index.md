@@ -43,6 +43,12 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 [Known issues affecting more than suite suite](hist2-known-issues)
 
 ### Completed Ensemble Members
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| [01 - u-cv575](hist2/1-cv575) | [11 - u-cy375](hist2/11-cy375) | [21 - u-da179](hist2/21-da179) | [31 - u-cz475](hist2/31-cz475) |
+
+
 * [01 - u-cv575](hist2/1-cv575)
 * [02 - u-cv625](hist2/2-cv625)
 * [03 - u-cw345](hist2/3-cw345)
