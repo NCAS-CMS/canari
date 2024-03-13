@@ -35,8 +35,8 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 
 | 1 - 10 | 11 - 20 | 21 - 30 | 31 - 40 |
 | --- | --- | --- | --- |
-| [01 - u-de](ssp370/1-de) |  |  |  |
-| $\color{#81D4FA}[02 - u-de436](ssp370/2-de436)$|  |  |  |
+|  |  |  |  |
+| [02 - u-de436](ssp370/2-de436) |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
