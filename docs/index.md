@@ -95,7 +95,7 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 ## Documents related to suite running
 
 * [Setting up to run a CANARI production suite](setup)
-* [Setting up to run a CANARI SSP3-7.0 productions suite](setup-ssp3)
+* [Setting up to run a CANARI SSP3-7.0 production suite](setup-ssp370)
 * [CANARI suite description](suite-description)
 * [ARCHER2 OS Upgrade - Suite Restart Instructions](archer2-os-upgrade)
 * [Troubleshooting](troubleshooting)
