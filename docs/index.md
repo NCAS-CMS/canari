@@ -40,9 +40,9 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 | [03 - u-de724](ssp370/3-de724) |  |  |  |
 | [04 - u-de815](ssp370/4-de815) |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| [06 - u-de830](ssp370/6-de830) |  |  |  |
+| [07 - u-de831](ssp370/7-de831) |  |  |  |
+| [08 - u-de832](ssp370/8-de832) |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 
