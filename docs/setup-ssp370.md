@@ -14,7 +14,7 @@ These instructions assume that you have previously run a HIST2 CANARI suite and 
 
 * Run the suite with `rose suite-run`.
 * Right click on the `jdma` task in the cylc GUI and select hold.
-* Once the second cycle (19500401T0000Z) appears in the cylc GUI right click on it and select hold.
+* Once the second cycle (20150401T0000Z) appears in the cylc GUI right click on it and select hold.
 * When the first cycle `coupled` and `modify_netcdf_metadata` tasks have finished contact Reinhard to check all is ok.
 * Double check that the correct start dumps. In the `cylc-run/log/job/20150101T0000Z/coupled/NN/job.out` check the variables reference the correct parent suite as per the spreadsheet:
    * `CICE_START`
