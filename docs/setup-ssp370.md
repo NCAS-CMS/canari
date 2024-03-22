@@ -8,7 +8,7 @@ These instructions assume that you have previously run a HIST2 CANARI suite and 
 * In the rose edit GUI:
   * Under *"Project Accounting"* (or in the `rose-suite.conf` file), set your ARCHER2 username.
   * Under *"jinja2"* check that `ENSEMBLE_NUM` and `HIST2_SUITE` match the Ensemble Number and HIST2 Parent suite id in the spreadsheet.
-  * Under *"modify_netcdf_metadata -> model metadata"* check all settings agree with the spreadsheet. Pay particular attention to the `parent_source_id` and `parent_variant_id`. You shouldn’t have to do anything.
+  * Under *"modify_netcdf_metadata -> model metadata"* check all settings agree with the spreadsheet. Pay particular attention to the `parent_source_id` and `parent_variant_label`. You shouldn’t have to do anything.
 
 ## Running the suite
 
