@@ -35,16 +35,16 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 
 | 1 - 10 | 11 - 20 | 21 - 30 | 31 - 40 |
 | --- | --- | --- | --- |
-| [01 - u-de814](ssp370/1-de814) |  |  |  |
-| [02 - u-de436](ssp370/2-de436) |  |  |  |
-| [03 - u-de724](ssp370/3-de724) |  |  |  |
-| [04 - u-de815](ssp370/4-de815) |  |  |  |
-|  |  |  |  |
-| [06 - u-de830](ssp370/6-de830) |  |  |  |
+| [01 - u-de814](ssp370/1-de814) | [11 - u-de934](ssp370/11-de934) |  |  |
+| [02 - u-de436](ssp370/2-de436) | [12 - u-de937](ssp370/12-de937) |  |  |
+| [03 - u-de724](ssp370/3-de724) | [13 - u-de938](ssp370/13-de938) |  |  |
+| [04 - u-de815](ssp370/4-de815) | [14 - u-de939](ssp370/14-de939) |  |  |
+| [05 - u-df220](ssp370/5-df220) | [15 - u-de940](ssp370/15-de940) |  |  |
+| [06 - u-de830](ssp370/6-de830) | [16 - u-df299](ssp370/16-df299) |  |  |
 | [07 - u-de831](ssp370/7-de831) |  |  |  |
 | [08 - u-de832](ssp370/8-de832) |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| [09 - u-de850](ssp370/9-de850) |  |  |  |
+| [10 - u-de851](ssp370/10-de851) |  |  |  |
 
 ## CANARI HIST2 Production Suites
 
@@ -62,19 +62,17 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 | [06 - u-cv976](hist2/6-cv976) | [16 - u-cy873](hist2/16-cy873) | | |
 | [07 - u-cz547](hist2/7-cz547) | [17 - u-cy877](hist2/17-cy877) | [27 - u-db301](hist2/27-db301) | |
 | [08 - u-cy436](hist2/8-cy436) | [18 - u-cy879](hist2/18-cy879) | [28 - u-db303](hist2/28-db303) | |
-| [09 - u-cw342](hist2/9-cw342) | | | |
-| [10 - u-cw343](hist2/10-cw343) | [20 - u-cy881](hist2/20-cy881) | [30 - u-db305](hist2/30-db305) | |
+| [09 - u-cw342](hist2/9-cw342) |  [19 - u-cy880](hist2/19-cy880) | [29 - u-db304](hist2/29-db304) | |
+| [10 - u-cw343](hist2/10-cw343) | [20 - u-cy881](hist2/20-cy881) | [30 - u-db305](hist2/30-db305) | [40 - u-dd442](hist2/40-dd442) |
 
 ### Ensemble Members In Progress
 
-* [19 - u-cy880](hist2/19-cy880)
 * [26 - u-db291](hist2/26-db291)
-* [29 - u-db304](hist2/29-db304)
 * [36 - u-dd436](hist2/36-dd436)
 * [37 - u-dd438](hist2/37-dd438)
 * [38 - u-dd439](hist2/38-dd439)
 * [39 - u-dd441](hist2/39-dd441)
-* [40 - u-dd442](hist2/40-dd442)
+  
 
 ####  Abandoned Suites:
 * [03 - u-cv608](hist2/3-cv608)
