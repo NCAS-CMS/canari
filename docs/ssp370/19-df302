@@ -1,0 +1,14 @@
+# u-df302 - SSP3-7.0 Ensemble Member 19
+
+**Runner:** Dan Hodson     
+**Run Start Date:**  07 May 2024
+**Run Completion Date:** 
+
+| Cycle | Task | Comment / Issue | Action | Date |
+| ---   | ---  | ---             | ---    | ---  |
+| -     | -    |  |  |  |
+
+### JDMA batch numbers
+```
+ Output from running: jdma batch -f workspace -w canari | grep u-df299 | cat -n
+```
