@@ -40,8 +40,8 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 | [03 - u-de724](ssp370/3-de724) | [13 - u-de938](ssp370/13-de938) | [23 - u-df935](ssp370/23-df935) |  |
 | [04 - u-de815](ssp370/4-de815) | [14 - u-de939](ssp370/14-de939) | [24 - u-df936](ssp370/24-df936) |  |
 | [05 - u-df220](ssp370/5-df220) | [15 - u-de940](ssp370/15-de940) | [25 - u-df937](ssp370/25-df937) |  |
-| [06 - u-de830](ssp370/6-de830) | [16 - u-df299](ssp370/16-df299) |  |  |
-| [07 - u-de831](ssp370/7-de831) | [17 - u-df300](ssp370/17-df300) |  |  |
+| [06 - u-de830](ssp370/6-de830) | [16 - u-df299](ssp370/16-df299) | [26 - u-dh412](ssp370/26-dh412) |  |
+| [07 - u-de831](ssp370/7-de831) | [17 - u-df300](ssp370/17-df300) | [27 - u-dh413](ssp370/27-dh413) |  |
 | [08 - u-de832](ssp370/8-de832) | [18 - u-df301](ssp370/18-df301) |  |  |
 | [09 - u-de850](ssp370/9-de850) | [19 - u-df302](ssp370/19-df302) |  |  |
 | [10 - u-de851](ssp370/10-de851) | [20 - u-df303](ssp370/20-df303) |  |  |
@@ -59,17 +59,11 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 | [03 - u-cw345](hist2/3-cw345) | [13 - u-cy537](hist2/13-cy537) | [23 - u-da191](hist2/23-da191) | [33 - u-cz647](hist2/33-cz647) |
 | [04 - u-cw356](hist2/4-cw356) | [14 - u-cy811](hist2/14-cy811) | [24 - u-da192](hist2/24-da192) | [34 - u-cz648](hist2/34-cz648) |
 | [05 - u-cv827](hist2/5-cv827) | [15 - u-cy866](hist2/15-cy866) | [25 - u-da193](hist2/25-da193) | [35 - u-cz649](hist2/35-cz649) |
-| [06 - u-cv976](hist2/6-cv976) | [16 - u-cy873](hist2/16-cy873) | [26 - u-db291](hist2/26-db291) | [36 - u-dd436](hist2/36-dd436)|
-| [07 - u-cz547](hist2/7-cz547) | [17 - u-cy877](hist2/17-cy877) | [27 - u-db301](hist2/27-db301) | |
-| [08 - u-cy436](hist2/8-cy436) | [18 - u-cy879](hist2/18-cy879) | [28 - u-db303](hist2/28-db303) | |
+| [06 - u-cv976](hist2/6-cv976) | [16 - u-cy873](hist2/16-cy873) | [26 - u-db291](hist2/26-db291) | [36 - u-dd436](hist2/36-dd436) |
+| [07 - u-cz547](hist2/7-cz547) | [17 - u-cy877](hist2/17-cy877) | [27 - u-db301](hist2/27-db301) | [37 - u-dd438](hist2/37-dd438) |
+| [08 - u-cy436](hist2/8-cy436) | [18 - u-cy879](hist2/18-cy879) | [28 - u-db303](hist2/28-db303) | [38 - u-dd439](hist2/38-dd439) |
 | [09 - u-cw342](hist2/9-cw342) |  [19 - u-cy880](hist2/19-cy880) | [29 - u-db304](hist2/29-db304) | [39 - u-dd441](hist2/39-dd441) |
 | [10 - u-cw343](hist2/10-cw343) | [20 - u-cy881](hist2/20-cy881) | [30 - u-db305](hist2/30-db305) | [40 - u-dd442](hist2/40-dd442) |
-
-### Ensemble Members In Progress
-
-* [37 - u-dd438](hist2/37-dd438)
-* [38 - u-dd439](hist2/38-dd439)
-  
 
 ####  Abandoned Suites:
 * [03 - u-cv608](hist2/3-cv608)
