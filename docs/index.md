@@ -37,8 +37,8 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 | --- | --- | --- | --- |
 | [01 - u-de814](ssp370/1-de814) | [11 - u-de934](ssp370/11-de934) | [21 - u-df933](ssp370/21-df933) |  |
 | [02 - u-de436](ssp370/2-de436) | [12 - u-de937](ssp370/12-de937) | [22 - u-df934](ssp370/22-df934) |  |
-| [03 - u-de724](ssp370/3-de724) | [13 - u-de938](ssp370/13-de938) | [23 - u-df935](ssp370/23-df935) |  |
-| [04 - u-de815](ssp370/4-de815) | [14 - u-de939](ssp370/14-de939) | [24 - u-df936](ssp370/24-df936) |  |
+| [03 - u-de724](ssp370/3-de724) | [13 - u-de938](ssp370/13-de938) | [23 - u-df935](ssp370/23-df935) | [33 - u-di513](ssp370/33-di513)  |
+| [04 - u-de815](ssp370/4-de815) | [14 - u-de939](ssp370/14-de939) | [24 - u-df936](ssp370/24-df936) | [34 - u-di514](ssp370/33-di514) |
 | [05 - u-df220](ssp370/5-df220) | [15 - u-de940](ssp370/15-de940) | [25 - u-df937](ssp370/25-df937) |  |
 | [06 - u-de830](ssp370/6-de830) | [16 - u-df299](ssp370/16-df299) | [26 - u-dh412](ssp370/26-dh412) |  |
 | [07 - u-de831](ssp370/7-de831) | [17 - u-df300](ssp370/17-df300) | [27 - u-dh413](ssp370/27-dh413) |  |
