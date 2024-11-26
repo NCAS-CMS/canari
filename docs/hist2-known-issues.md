@@ -7,3 +7,4 @@
 
   Maybe this is expected, and can easily be worked around (e.g. iris.util.equalise_attributes(...) or xarray.concat(..., combine_attrs="drop_conflicts") but I wanted people to be aware of it. Having this attribute set consistently would also make it easier to keep the link back to the parent in derived data and so help keep track of which ones might cluster due to being micro perturbations of the same parent.
 
+- NEMO ocean: subbasin.nc and diaptr issues.
