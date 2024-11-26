@@ -48,8 +48,6 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 
 ## CANARI HIST2 Production Suites
 
-[Known issues affecting more than suite suite](hist2-known-issues)
-
 ### Completed Ensemble Members
 
 | 1 - 10 | 11 - 20 | 21 - 30 | 31 - 40 |
@@ -88,3 +86,4 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 * [ARCHER2 OS Upgrade - Suite Restart Instructions](archer2-os-upgrade)
 * [Troubleshooting](troubleshooting)
 * [Frequently Asked Questions](faq)
+* [Known issues affecting more than suite suite](hist2-known-issues)
