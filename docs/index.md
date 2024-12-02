@@ -31,7 +31,7 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 
 ## CANARI SSP3-7.0 Production Suites
 
-### Ensemble Members In Progress
+### Completed Ensemble Members
 
 | 1 - 10 | 11 - 20 | 21 - 30 | 31 - 40 |
 | --- | --- | --- | --- |
@@ -39,12 +39,12 @@ Commonly used ancillary files, such as for the land fraction and orography, are 
 | [02 - u-de436](ssp370/2-de436) | [12 - u-de937](ssp370/12-de937) | [22 - u-df934](ssp370/22-df934) | [32 - u-dh413](ssp370/32-di512) |
 | [03 - u-de724](ssp370/3-de724) | [13 - u-de938](ssp370/13-de938) | [23 - u-df935](ssp370/23-df935) | [33 - u-di513](ssp370/33-di513)  |
 | [04 - u-de815](ssp370/4-de815) | [14 - u-de939](ssp370/14-de939) | [24 - u-df936](ssp370/24-df936) | [34 - u-di514](ssp370/34-di514) |
-| [05 - u-df220](ssp370/5-df220) | [15 - u-de940](ssp370/15-de940) | [25 - u-df937](ssp370/25-df937) | [35 - u-dh413](ssp370/35-di515) |
-| [06 - u-de830](ssp370/6-de830) | [16 - u-df299](ssp370/16-df299) | [26 - u-dh412](ssp370/26-dh412) |  |
-| [07 - u-de831](ssp370/7-de831) | [17 - u-df300](ssp370/17-df300) | [27 - u-dh413](ssp370/27-dh413) |  |
-| [08 - u-de832](ssp370/8-de832) | [18 - u-df301](ssp370/18-df301) | [28 - u-dh413](ssp370/28-dh415) |  |
-| [09 - u-de850](ssp370/9-de850) | [19 - u-df302](ssp370/19-df302) | [29 - u-dh413](ssp370/29-dh416) |  |
-| [10 - u-de851](ssp370/10-de851) | [20 - u-df303](ssp370/20-df303) | [30 - u-dh413](ssp370/30-dh417) |  |
+| [05 - u-df220](ssp370/5-df220) | [15 - u-de940](ssp370/15-de940) | [25 - u-df937](ssp370/25-df937) | [35 - u-di515](ssp370/35-di515) |
+| [06 - u-de830](ssp370/6-de830) | [16 - u-df299](ssp370/16-df299) | [26 - u-dh412](ssp370/26-dh412) | [36 - u-di703](ssp370/36-di703) |
+| [07 - u-de831](ssp370/7-de831) | [17 - u-df300](ssp370/17-df300) | [27 - u-dh413](ssp370/27-dh413) | [37 - u-di704](ssp370/37-di704) |
+| [08 - u-de832](ssp370/8-de832) | [18 - u-df301](ssp370/18-df301) | [28 - u-dh413](ssp370/28-dh415) | [38 - u-di705](ssp370/38-di705) |
+| [09 - u-de850](ssp370/9-de850) | [19 - u-df302](ssp370/19-df302) | [29 - u-dh413](ssp370/29-dh416) | [39 - u-di706](ssp370/39-di706) |
+| [10 - u-de851](ssp370/10-de851) | [20 - u-df303](ssp370/20-df303) | [30 - u-dh413](ssp370/30-dh417) | [40 - u-di707](ssp370/40-di707) |
 
 ## CANARI HIST2 Production Suites
 
