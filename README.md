@@ -1,0 +1,2 @@
+# canari
+Webpage redirect only
